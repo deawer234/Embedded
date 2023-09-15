@@ -1,1 +1,1 @@
-# Embedded
+Coffee machuine in RTOS for tiva microcontroller
